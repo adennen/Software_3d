@@ -1,7 +1,7 @@
 Software 3d
 ===========
 
-[![Screenshot](/Screenshot.png)]
+![Screenshot](/Screenshot.png)
 
 Summary
 -------
